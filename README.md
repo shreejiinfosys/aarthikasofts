@@ -1,7 +1,8 @@
 # Aarthika ERP
 
 <div align="center">
-  <img width="1200" height="475" alt="Corelox Prime ERP Banner" src="https://res.cloudinary.com/dmvd2eacs/image/upload/v1777114185/Poster_vwg34p.png" />
+  <img width="1200" height="475" alt="Corelox Prime ERP Banner" src="https://res.cloudinary.com/dmvd2eacs/image/upload/v1785678140/Screenshot_2026-08-02_191110_ocvabq.png" />
+  
 
   <h1>Aarthika ERP</h1>
   <p><strong>Enterprise Poultry ERP — Farm Operations, Accounts, Inventory, HR & Multi-Tenant Control</strong></p>
